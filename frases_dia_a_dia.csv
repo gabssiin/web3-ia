@@ -1,0 +1,401 @@
+ID,Frase,Emocao
+Z006,O ônibus passa a cada 20 minutos.,Neutra
+Z074,"Nossa, vou fazer um café.",Neutra
+N068,"Então, o projeto foi cancelado de última hora.",Negativa
+N079,"Então, perdi o ônibus e vou chegar atrasado.",Negativa
+Z115,"Nossa, o trânsito está fluindo bem.",Neutra
+N058,"Realmente, que dor de cabeça insuportável.",Negativa
+N129,"Nossa, essa cadeira é muito desconfortável.",Negativa
+P002,Finalmente consegui terminar aquele projeto.,Positiva
+Z104,"Então, preciso comprar um presente de aniversário.",Neutra
+Z014,Preciso renovar minha carteira de motorista.,Neutra
+Z089,"Nossa, você viu meu carregador?",Neutra
+Z029,Vou pagar as contas no banco.,Neutra
+P097,"Olha, você ilumina o ambiente quando chega.",Positiva
+P008,Foi a melhor viagem da minha vida.,Positiva
+N131,"Então, estou exausto de tanto discutir.",Negativa
+Z010,Estou lendo um livro sobre história.,Neutra
+N012,O trânsito está parado há horas.,Negativa
+N107,"Então, não tenho paciência para isso agora.",Negativa
+P098,"Sabe, o filme teve um final perfeito.",Positiva
+Z035,O noticiário começa às 19h.,Neutra
+Z030,O elevador está em manutenção.,Neutra
+N109,"Sabe, ele foi muito grosso comigo.",Negativa
+N086,"Realmente, estou me sentindo muito sozinho.",Negativa
+N118,"Então, ninguém me avisou sobre a mudança.",Negativa
+P104,"Sabe, achei exatamente o que estava procurando.",Positiva
+P101,"Nossa, a festa estava super animada.",Positiva
+P089,"Realmente, estou muito empolgado com as novidades.",Positiva
+N083,"Realmente, não consigo dormir com essa preocupação.",Negativa
+P040,Essa música me traz ótimas lembranças.,Positiva
+Z110,"Sabe, onde deixei as chaves do carro?",Neutra
+P060,"Realmente, estou me sentindo ótimo hoje.",Positiva
+Z001,Vou passar no mercado na volta.,Neutra
+Z027,A janela está aberta.,Neutra
+P121,"Então, estou confiante de que vai dar certo.",Positiva
+N088,"Olha, a internet caiu bem na hora da reunião.",Negativa
+N018,Estou triste com a notícia que recebi.,Negativa
+P032,Finalmente as férias chegaram.,Positiva
+Z040,Vou responder as mensagens mais tarde.,Neutra
+N053,"Sabe, estou farto de tantas mentiras.",Negativa
+P096,"Realmente, consegui comprar os ingressos pro show!",Positiva
+Z072,"Sabe, vou cortar o cabelo no sábado.",Neutra
+Z070,"Realmente, a chave está embaixo do tapete.",Neutra
+Z021,Recebi um e-mail da escola.,Neutra
+P052,"Então, dormi muito bem essa noite.",Positiva
+N070,"Então, que dia estressante no trabalho.",Negativa
+N054,"Nossa, que cheiro horrível é esse?",Negativa
+N092,"Nossa, essa situação é muito frustrante.",Negativa
+P111,"Realmente, hoje é um dia para celebrar.",Positiva
+Z032,Vou cortar o cabelo no sábado.,Neutra
+N021,Sinto falta de quando as coisas eram mais simples.,Negativa
+N077,"Olha, não aguento mais essa barulheira.",Negativa
+Z058,"Sabe, preciso comprar um presente de aniversário.",Neutra
+N017,O computador travou e perdi o arquivo.,Negativa
+Z085,"Sabe, a temperatura atual é de 25 graus.",Neutra
+P019,Estou muito empolgado com as novidades.,Positiva
+Z042,"Realmente, hoje é terça-feira.",Neutra
+N066,"Olha, estou farto de tantas mentiras.",Negativa
+P028,Agradeço de coração pelo apoio.,Positiva
+N030,Não consigo dormir com essa preocupação.,Negativa
+Z060,"Sabe, a luz da sala queimou.",Neutra
+P090,"Sabe, meu time ganhou o campeonato!",Positiva
+N024,Não tenho paciência para isso agora.,Negativa
+Z086,"Realmente, vou levar o cachorro para passear.",Neutra
+Z002,A reunião está marcada para as 14h.,Neutra
+Z117,"Nossa, vou lavar a louça agora.",Neutra
+Z101,"Olha, o céu está nublado.",Neutra
+P035,Hoje é um dia para celebrar.,Positiva
+Z018,Você viu meu carregador?,Neutra
+Z052,"Sabe, o prazo de entrega é de dois dias.",Neutra
+P041,"Nossa, que dia lindo para passear no parque.",Positiva
+Z003,Onde deixei as chaves do carro?,Neutra
+Z091,"Realmente, amanhã tenho consulta no dentista.",Neutra
+N082,"Então, essa cadeira é muito desconfortável.",Negativa
+P100,"Nossa, o clima está super agradável hoje.",Positiva
+Z122,"Sabe, vou usar a camisa azul hoje.",Neutra
+N052,"Nossa, essa cadeira é muito desconfortável.",Negativa
+P088,"Sabe, finalmente consegui terminar aquele projeto.",Positiva
+Z071,"Olha, você viu meu carregador?",Neutra
+Z025,O telefone está tocando.,Neutra
+P005,Essa comida está simplesmente divina.,Positiva
+P073,"Olha, foi a melhor viagem da minha vida.",Positiva
+P102,"Então, esse café da manhã estava delicioso.",Positiva
+N121,"Realmente, estou me sentindo muito sozinho.",Negativa
+P058,"Então, esse café da manhã estava delicioso.",Positiva
+N026,Estou me sentindo muito sozinho.,Negativa
+N004,O serviço de atendimento foi péssimo.,Negativa
+P034,A encomenda chegou antes do prazo.,Positiva
+P047,"Então, a apresentação foi um sucesso total.",Positiva
+N114,"Então, não tenho paciência para isso agora.",Negativa
+P038,Admiro muito sua dedicação.,Positiva
+N063,"Então, ele foi muito grosso comigo.",Negativa
+Z022,Vou lavar a louça agora.,Neutra
+N085,"Então, o serviço de atendimento foi péssimo.",Negativa
+Z132,"Sabe, a bateria do celular está acabando.",Neutra
+N019,Ninguém me avisou sobre a mudança.,Negativa
+Z063,"Então, o noticiário começa às 19h.",Neutra
+N132,"Nossa, sinto que estou desperdiçando meu tempo.",Negativa
+Z019,Amanhã tenho consulta no dentista.,Neutra
+N006,Meu celular caiu e quebrou a tela.,Negativa
+N009,Não consigo acreditar que isso aconteceu de novo.,Negativa
+N059,"Então, estou me sentindo muito sozinho.",Negativa
+N011,Estou exausto de tanto discutir.,Negativa
+N042,"Realmente, o projeto foi cancelado de última hora.",Negativa
+P043,"Nossa, o bebê deu os primeiros passos hoje.",Positiva
+P053,"Olha, que sensação boa de dever cumprido.",Positiva
+N095,"Nossa, estou farto de tantas mentiras.",Negativa
+Z106,"Olha, o telefone está tocando.",Neutra
+P046,"Olha, que bom ver você de novo.",Positiva
+Z120,"Sabe, o trânsito está fluindo bem.",Neutra
+P061,"Então, essa comida está simplesmente divina.",Positiva
+Z087,"Então, o telefone está tocando.",Neutra
+N057,"Sabe, essa situação é muito frustrante.",Negativa
+P056,"Nossa, recebi uma promoção no trabalho!",Positiva
+P074,"Sabe, o clima está super agradável hoje.",Positiva
+Z080,"Então, preciso renovar minha carteira de motorista.",Neutra
+P012,A festa estava super animada.,Positiva
+N102,"Então, que dia estressante no trabalho.",Negativa
+Z061,"Olha, vou lavar a louça agora.",Neutra
+Z011,A luz da sala queimou.,Neutra
+Z130,"Sabe, amanhã tenho consulta no dentista.",Neutra
+N100,"Então, meu celular caiu e quebrou a tela.",Negativa
+N075,"Então, o trânsito está parado há horas.",Negativa
+P036,Você ilumina o ambiente quando chega.,Positiva
+N036,Fui cobrado indevidamente.,Negativa
+P026,Sua ideia foi genial!,Positiva
+N050,"Então, estou me sentindo muito sozinho.",Negativa
+N001,Que dor de cabeça insuportável.,Negativa
+Z131,"Então, o céu está nublado.",Neutra
+P027,Tudo saiu melhor do que o planejado.,Positiva
+P024,Fiquei feliz com o resultado do exame.,Positiva
+N061,"Olha, esqueci minha carteira em casa.",Negativa
+P113,"Sabe, consegui comprar os ingressos pro show!",Positiva
+N097,"Então, estou me sentindo muito sozinho.",Negativa
+Z112,"Nossa, hoje é terça-feira.",Neutra
+P120,"Então, recebi uma promoção no trabalho!",Positiva
+N046,"Nossa, sinto que estou desperdiçando meu tempo.",Negativa
+Z031,Preciso abastecer o carro.,Neutra
+N116,"Olha, não tenho paciência para isso agora.",Negativa
+N034,Estou farto de tantas mentiras.,Negativa
+P025,Achei exatamente o que estava procurando.,Positiva
+Z059,"Realmente, preciso comprar leite e pão.",Neutra
+P086,"Realmente, estou confiante de que vai dar certo.",Positiva
+N133,"Olha, não tenho paciência para isso agora.",Negativa
+P082,"Sabe, que bom ver você de novo.",Positiva
+N038,Estou com uma gripe terrível.,Negativa
+N067,"Realmente, a internet caiu bem na hora da reunião.",Negativa
+P109,"Sabe, o filme teve um final perfeito.",Positiva
+N007,Que dia estressante no trabalho.,Negativa
+Z053,"Sabe, onde deixei as chaves do carro?",Neutra
+N031,A internet caiu bem na hora da reunião.,Negativa
+N048,"Realmente, estou muito decepcionado com a atitude dele.",Negativa
+P094,"Então, recebi uma promoção no trabalho!",Positiva
+Z057,"Nossa, vou organizar minha mesa.",Neutra
+N044,"Olha, que cheiro horrível é esse?",Negativa
+P131,"Sabe, essa comida está simplesmente divina.",Positiva
+Z051,"Olha, vou passar no mercado na volta.",Neutra
+P070,"Nossa, estou apaixonado por esse lugar.",Positiva
+P010,Conseguimos resolver o problema a tempo.,Positiva
+P129,"Então, é maravilhoso ter amigos como vocês.",Positiva
+Z096,"Então, vou colocar o lixo para fora.",Neutra
+P092,"Realmente, a encomenda chegou antes do prazo.",Positiva
+P009,Que bom ver você de novo.,Positiva
+N065,"Realmente, essa situação é muito frustrante.",Negativa
+N008,A comida veio fria e sem gosto.,Negativa
+P059,"Então, sinto que as coisas vão melhorar agora.",Positiva
+P003,Adorei a surpresa que você fez!,Positiva
+Z037,A bateria do celular está acabando.,Neutra
+Z119,"Nossa, o elevador está em manutenção.",Neutra
+N093,"Nossa, não consigo dormir com essa preocupação.",Negativa
+Z028,O prazo de entrega é de dois dias.,Neutra
+N084,"Realmente, não tenho paciência para isso agora.",Negativa
+N113,"Realmente, a chuva estragou nossos planos.",Negativa
+P124,"Nossa, recebi uma promoção no trabalho!",Positiva
+Z094,"Nossa, preciso acordar cedo amanhã.",Neutra
+N126,"Realmente, que cheiro horrível é esse?",Negativa
+N108,"Então, fui mal atendido na loja.",Negativa
+N027,Que cheiro horrível é esse?,Negativa
+Z113,"Realmente, o ônibus passa a cada 20 minutos.",Neutra
+P071,"Sabe, o bebê deu os primeiros passos hoje.",Positiva
+Z088,"Realmente, amanhã tenho consulta no dentista.",Neutra
+N056,"Nossa, que dia estressante no trabalho.",Negativa
+N040,Fiquei chateado com o comentário dela.,Negativa
+Z033,A chave está embaixo do tapete.,Neutra
+Z095,"Olha, hoje é terça-feira.",Neutra
+N071,"Realmente, não consigo acreditar que isso aconteceu de novo.",Negativa
+Z045,"Sabe, o filme começa em dez minutos.",Neutra
+N104,"Nossa, não gostei nem um pouco do filme.",Negativa
+P106,"Realmente, fiquei feliz com o resultado do exame.",Positiva
+N013,Esqueci minha carteira em casa.,Negativa
+P033,Rimos muito ontem à noite.,Positiva
+P001,Que dia lindo para passear no parque.,Positiva
+P004,Muito obrigado por me ajudar com a mudança.,Positiva
+Z102,"Sabe, o noticiário começa às 19h.",Neutra
+P115,"Realmente, tudo saiu melhor do que o planejado.",Positiva
+N023,Isso foi uma total falta de respeito.,Negativa
+N081,"Sabe, fiquei preso no elevador.",Negativa
+N033,Minha encomenda foi extraviada.,Negativa
+P054,"Sabe, muito obrigado por me ajudar com a mudança.",Positiva
+N117,"Então, o computador travou e perdi o arquivo.",Negativa
+Z007,Vou levar o cachorro para passear.,Neutra
+P127,"Realmente, o filme teve um final perfeito.",Positiva
+P103,"Sabe, foi a melhor viagem da minha vida.",Positiva
+P091,"Realmente, o filme teve um final perfeito.",Positiva
+Z064,"Então, preciso comprar leite e pão.",Neutra
+P029,Que sensação boa de dever cumprido.,Positiva
+N074,"Nossa, o serviço de atendimento foi péssimo.",Negativa
+Z124,"Nossa, você viu meu carregador?",Neutra
+Z107,"Então, o gato está dormindo no sofá.",Neutra
+N069,"Nossa, sinto que estou desperdiçando meu tempo.",Negativa
+P015,O filme teve um final perfeito.,Positiva
+Z090,"Realmente, vou usar a camisa azul hoje.",Neutra
+P065,"Nossa, sinto que as coisas vão melhorar agora.",Positiva
+Z044,"Sabe, preciso acordar cedo amanhã.",Neutra
+Z098,"Nossa, a janela está aberta.",Neutra
+P044,"Realmente, muito obrigado por me ajudar com a mudança.",Positiva
+N051,"Realmente, ele foi muito grosso comigo.",Negativa
+Z082,"Olha, a reunião está marcada para as 14h.",Neutra
+N035,O carro quebrou no meio da estrada.,Negativa
+P055,"Realmente, recebi uma promoção no trabalho!",Positiva
+N127,"Olha, fui mal atendido na loja.",Negativa
+P017,É maravilhoso ter amigos como vocês.,Positiva
+Z039,O trânsito está fluindo bem.,Neutra
+N039,Nada parece dar certo hoje.,Negativa
+N002,Perdi o ônibus e vou chegar atrasado.,Negativa
+Z126,"Sabe, o jantar será servido às 20h.",Neutra
+P020,O clima está super agradável hoje.,Positiva
+N072,"Realmente, ninguém me avisou sobre a mudança.",Negativa
+P006,Estou me sentindo ótimo hoje.,Positiva
+P130,"Nossa, adorei a surpresa que você fez!",Positiva
+Z067,"Nossa, vou pagar as contas no banco.",Neutra
+N087,"Realmente, meu celular caiu e quebrou a tela.",Negativa
+Z055,"Sabe, preciso abastecer o carro.",Neutra
+N105,"Então, estou com uma gripe terrível.",Negativa
+Z116,"Então, vou levar o cachorro para passear.",Neutra
+P112,"Nossa, estou apaixonado por esse lugar.",Positiva
+N110,"Sabe, fiquei chateado com o comentário dela.",Negativa
+N090,"Nossa, esqueci minha carteira em casa.",Negativa
+Z097,"Olha, você viu meu carregador?",Neutra
+P119,"Nossa, que bom ver você de novo.",Positiva
+N128,"Olha, estou muito decepcionado com a atitude dele.",Negativa
+N014,Fui mal atendido na loja.,Negativa
+P042,"Realmente, estou me sentindo ótimo hoje.",Positiva
+Z009,O correio entregou uma carta para você.,Neutra
+P093,"Realmente, que sensação boa de dever cumprido.",Positiva
+Z056,"Sabe, vou fazer um café.",Neutra
+Z128,"Sabe, a bateria do celular está acabando.",Neutra
+Z129,"Sabe, o elevador está em manutenção.",Neutra
+N098,"Sabe, a chuva estragou nossos planos.",Negativa
+Z075,"Realmente, vou fazer um café.",Neutra
+Z062,"Nossa, preciso abastecer o carro.",Neutra
+P118,"Nossa, achei exatamente o que estava procurando.",Positiva
+Z127,"Então, recebi um e-mail da escola.",Neutra
+P116,"Nossa, essa música me traz ótimas lembranças.",Positiva
+N005,Estou muito decepcionado com a atitude dele.,Negativa
+N120,"Nossa, ninguém me avisou sobre a mudança.",Negativa
+N049,"Sabe, nada parece dar certo hoje.",Negativa
+N015,Essa situação é muito frustrante.,Negativa
+P039,Foi um prazer conhecer sua família.,Positiva
+P068,"Olha, sinto que as coisas vão melhorar agora.",Positiva
+P128,"Olha, adorei a surpresa que você fez!",Positiva
+N037,Essa cadeira é muito desconfortável.,Negativa
+N106,"Nossa, que dia estressante no trabalho.",Negativa
+N047,"Olha, o carro quebrou no meio da estrada.",Negativa
+Z024,Preciso acordar cedo amanhã.,Neutra
+P117,"Olha, estou apaixonado por esse lugar.",Positiva
+P080,"Nossa, a apresentação foi um sucesso total.",Positiva
+P016,Sinto que as coisas vão melhorar agora.,Positiva
+P021,Consegui comprar os ingressos pro show!,Positiva
+N041,"Nossa, o preço está absurdamente caro.",Negativa
+Z015,A loja fica na esquina da rua.,Neutra
+P095,"Nossa, você ilumina o ambiente quando chega.",Positiva
+P018,A apresentação foi um sucesso total.,Positiva
+N032,Fiquei preso no elevador.,Negativa
+N020,O preço está absurdamente caro.,Negativa
+P125,"Sabe, sinto que as coisas vão melhorar agora.",Positiva
+N045,"Olha, essa situação é muito frustrante.",Negativa
+P014,Ganhei um desconto incrível na loja.,Positiva
+N028,A chuva estragou nossos planos.,Negativa
+P084,"Sabe, conseguimos resolver o problema a tempo.",Positiva
+P031,O bebê deu os primeiros passos hoje.,Positiva
+P037,Estou confiante de que vai dar certo.,Positiva
+N130,"Então, perdi o ônibus e vou chegar atrasado.",Negativa
+N124,"Então, minha encomenda foi extraviada.",Negativa
+P075,"Então, dormi muito bem essa noite.",Positiva
+N125,"Nossa, que dor de cabeça insuportável.",Negativa
+N003,Não aguento mais essa barulheira.,Negativa
+N096,"Então, estou me sentindo muito sozinho.",Negativa
+P110,"Realmente, a apresentação foi um sucesso total.",Positiva
+Z108,"Sabe, onde deixei as chaves do carro?",Neutra
+P062,"Nossa, estou apaixonado por esse lugar.",Positiva
+P045,"Realmente, estou me sentindo ótimo hoje.",Positiva
+Z125,"Olha, vou organizar minha mesa.",Neutra
+N119,"Nossa, o trânsito está parado há horas.",Negativa
+Z118,"Realmente, vou pagar as contas no banco.",Neutra
+Z004,Hoje é terça-feira.,Neutra
+Z077,"Olha, o elevador está em manutenção.",Neutra
+Z081,"Olha, o trânsito está fluindo bem.",Neutra
+P069,"Realmente, consegui comprar os ingressos pro show!",Positiva
+P007,Recebi uma promoção no trabalho!,Positiva
+Z079,"Nossa, hoje é terça-feira.",Neutra
+P107,"Sabe, finalmente as férias chegaram.",Positiva
+Z065,"Olha, o telefone está tocando.",Neutra
+P011,Estou tão orgulhoso do seu progresso.,Positiva
+P013,Dormi muito bem essa noite.,Positiva
+P133,"Olha, é maravilhoso ter amigos como vocês.",Positiva
+N080,"Sabe, essa situação é muito frustrante.",Negativa
+P123,"Então, o filme teve um final perfeito.",Positiva
+Z036,Vou organizar minha mesa.,Neutra
+P122,"Então, estou apaixonado por esse lugar.",Positiva
+P049,"Então, o clima está super agradável hoje.",Positiva
+Z049,"Sabe, a reunião está marcada para as 14h.",Neutra
+N010,Sinto que estou desperdiçando meu tempo.,Negativa
+Z005,Preciso comprar leite e pão.,Neutra
+P105,"Então, a apresentação foi um sucesso total.",Positiva
+P023,Esse café da manhã estava delicioso.,Positiva
+N123,"Então, fiquei preso no elevador.",Negativa
+N115,"Então, estou muito decepcionado com a atitude dele.",Negativa
+N103,"Nossa, estou muito decepcionado com a atitude dele.",Negativa
+Z034,Vou preparar um sanduíche.,Neutra
+Z103,"Sabe, o céu está nublado.",Neutra
+N099,"Realmente, o computador travou e perdi o arquivo.",Negativa
+Z105,"Olha, a chave está embaixo do tapete.",Neutra
+P081,"Então, tudo saiu melhor do que o planejado.",Positiva
+P126,"Então, esse café da manhã estava delicioso.",Positiva
+P134,"Sabe, o bebê deu os primeiros passos hoje.",Positiva
+Z046,"Realmente, preciso abastecer o carro.",Neutra
+P132,"Sabe, a festa estava super animada.",Positiva
+Z076,"Nossa, vou passar no mercado na volta.",Neutra
+N016,Não gostei nem um pouco do filme.,Negativa
+N022,Estou com medo do resultado.,Negativa
+Z043,"Olha, o correio entregou uma carta para você.",Neutra
+P087,"Realmente, finalmente consegui terminar aquele projeto.",Positiva
+Z099,"Olha, o gato está dormindo no sofá.",Neutra
+P064,"Então, estou apaixonado por esse lugar.",Positiva
+Z008,A temperatura atual é de 25 graus.,Neutra
+N062,"Então, ele foi muito grosso comigo.",Negativa
+P057,"Então, recebi uma promoção no trabalho!",Positiva
+N112,"Realmente, o preço está absurdamente caro.",Negativa
+Z054,"Realmente, vou fazer um café.",Neutra
+N094,"Olha, estou com medo do resultado.",Negativa
+Z111,"Então, vou levar o cachorro para passear.",Neutra
+Z092,"Então, vou cortar o cabelo no sábado.",Neutra
+P050,"Então, esse café da manhã estava delicioso.",Positiva
+N029,Ele foi muito grosso comigo.,Negativa
+Z047,"Nossa, vou passar no mercado na volta.",Neutra
+Z066,"Realmente, recebi um e-mail da escola.",Neutra
+P078,"Olha, meu time ganhou o campeonato!",Positiva
+Z068,"Sabe, preciso acordar cedo amanhã.",Neutra
+N078,"Então, essa situação é muito frustrante.",Negativa
+Z123,"Sabe, estou lendo um livro sobre história.",Neutra
+Z016,O filme começa em dez minutos.,Neutra
+N043,"Realmente, não consigo acreditar que isso aconteceu de novo.",Negativa
+N073,"Realmente, estou farto de tantas mentiras.",Negativa
+Z133,"Sabe, estou lendo um livro sobre história.",Neutra
+N101,"Sabe, não tenho paciência para isso agora.",Negativa
+P079,"Olha, dormi muito bem essa noite.",Positiva
+Z041,"Então, a janela está aberta.",Neutra
+P085,"Realmente, que sensação boa de dever cumprido.",Positiva
+Z083,"Olha, vou cortar o cabelo no sábado.",Neutra
+N064,"Então, que dia estressante no trabalho.",Negativa
+N025,O projeto foi cancelado de última hora.,Negativa
+N060,"Olha, o computador travou e perdi o arquivo.",Negativa
+Z017,Vou fazer um café.,Neutra
+P048,"Realmente, dormi muito bem essa noite.",Positiva
+P099,"Olha, a festa estava super animada.",Positiva
+P066,"Realmente, hoje é um dia para celebrar.",Positiva
+P083,"Realmente, é maravilhoso ter amigos como vocês.",Positiva
+P077,"Então, a festa estava super animada.",Positiva
+P030,Estou apaixonado por esse lugar.,Positiva
+N089,"Realmente, essa cadeira é muito desconfortável.",Negativa
+Z073,"Então, o céu está nublado.",Neutra
+P072,"Realmente, muito obrigado por me ajudar com a mudança.",Positiva
+P051,"Sabe, que sensação boa de dever cumprido.",Positiva
+Z121,"Olha, vou lavar a louça agora.",Neutra
+Z109,"Olha, a janela está aberta.",Neutra
+Z050,"Olha, preciso comprar um presente de aniversário.",Neutra
+P063,"Olha, estou me sentindo ótimo hoje.",Positiva
+N055,"Sabe, fiquei chateado com o comentário dela.",Negativa
+P067,"Olha, estou apaixonado por esse lugar.",Positiva
+Z048,"Olha, preciso acordar cedo amanhã.",Neutra
+P114,"Sabe, tudo saiu melhor do que o planejado.",Positiva
+N122,"Olha, sinto falta de quando as coisas eram mais simples.",Negativa
+N091,"Olha, a comida veio fria e sem gosto.",Negativa
+Z114,"Olha, vou usar a camisa azul hoje.",Neutra
+Z020,O gato está dormindo no sofá.,Neutra
+Z069,"Olha, o telefone está tocando.",Neutra
+P076,"Então, agradeço de coração pelo apoio.",Positiva
+Z013,O jantar será servido às 20h.,Neutra
+Z012,Vou colocar o lixo para fora.,Neutra
+N076,"Sabe, estou com uma gripe terrível.",Negativa
+N111,"Olha, não aguento mais essa barulheira.",Negativa
+Z084,"Sabe, o gato está dormindo no sofá.",Neutra
+Z023,O céu está nublado.,Neutra
+Z093,"Então, o noticiário começa às 19h.",Neutra
+Z078,"Sabe, vou colocar o lixo para fora.",Neutra
+Z026,Vou usar a camisa azul hoje.,Neutra
+Z100,"Realmente, o filme começa em dez minutos.",Neutra
+Z038,Preciso comprar um presente de aniversário.,Neutra
+P022,Meu time ganhou o campeonato!,Positiva
+P108,"Sabe, essa comida está simplesmente divina.",Positiva
