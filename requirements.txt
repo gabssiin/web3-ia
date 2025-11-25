@@ -1,0 +1,11 @@
+# Bibliotecas principais para Data Science/Machine Learning
+pandas
+scikit-learn
+joblib
+
+# Bibliotecas para reconhecimento de voz (Speech-to-Text)
+SpeechRecognition
+PyAudio # Necessário para usar o Microfone (sr.Microphone)
+
+# Biblioteca para comunicação serial (PC <-> Arduino)
+pyserial
