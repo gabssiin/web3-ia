@@ -35,9 +35,11 @@ def limpar_texto(texto):
     texto = texto.lower()
     return texto.strip()
 
-def prever_sentimento_carregado(frase, vectorizer_loaded, model_loaded):
+def prever_sentimento_carregado(frase):
+    #utilizando a função criada anteriormente
+    texto_limpo = limpar_texto(frase)
     # cria vetor da frase
-    vetor = vectorizer_loaded.transform([frase])
+    vetor = vectorizer_loaded.transform([texto_limpo])
     # faz a previsão
     pred = model_loaded.predict(vetor)[0]
     return pred
