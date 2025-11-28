@@ -1,5 +1,6 @@
 import joblib
 import os
+import re
 import sys
 
 vectorizer_path = 'modelo_emocao/tfidf_vectorizer.pkl'
