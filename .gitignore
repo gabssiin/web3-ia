@@ -1,3 +1,24 @@
-.venvia
-realtimesst.log
+# Arquivos de ambiente virtual (Virtual Environment)
+venvia/
+.venv/
+env/
+venv/
+*env/
+*.egg-info/
+.python-version
 
+# Arquivos de cache e temporários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints
+
+# Logs e Dados
+*.log
+*.sqlite
+/data/
+
+# Notebooks (opcional, se você não quiser versionar os outputs)
+# *.ipynb
+# .idea/
